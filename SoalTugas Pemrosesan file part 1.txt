@@ -1,0 +1,8 @@
+Soal Tugas Pemrosesan File
+
+1.Tulis Tahap Operasi File
+2.apa yang dimaksud dengan file
+3.buat program sederhana untuk membaca file ekstensi (*txt)yang telah tersimpan dan berisi "saya membuka file"
+4.tuliskan sintak membuka atau menghapus file
+5.buat program sederhana untuk membuka file ekstensi (*.txt)yang berisi "saya belajar membuat file"
+6.sebutkan jenis operasi atau mode file

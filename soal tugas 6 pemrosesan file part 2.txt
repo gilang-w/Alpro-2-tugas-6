@@ -1,0 +1,5 @@
+1. Buat Program sederhana untuk merekam atau menulis data sembarang dengan nama file "datatugas5.txt"
+2. Jelaskan jenis operasi file dan berikan contohnya masing-masing
+3. Buatlah program sederhana untuk menulis/merekam data anda yang terdiri dari stambuk, nama anda dan kelas. Data tsb disimpan dengan nama file mhsFile dan nama file data “datamhs.txt”.
+4 Buat program sederhana untuk menulis/merekam data mahasiswa yang terdiri dari stambuk, nama mahasiswa, kelas dan ipk. Data tersebut disimpan dengan nama file objek datamhs dan nama file data “datamhs.txt”.
+5. Buat Program sederhana untuk membaca isi data dari file "datatugas5.txt"
